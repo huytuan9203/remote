@@ -7,3 +7,4 @@ var c = 30;
 function sum(a,b){
     return a+b;
 }
+DaeHanMinGuk
